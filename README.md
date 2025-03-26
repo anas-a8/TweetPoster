@@ -21,12 +21,4 @@ You need to have:
 - Access Token  
 - Access Token Secret  
 
-⚠️ Do **not** expose your API keys in public projects. Use environment variables in production.
 
-## 🛠️ How to Run
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/anas-a8/TweetPoster.git
-cd TweetPoster
