@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBot", "TweetBot\TweetBot.csproj", "{381A107E-7D9C-1382-6A3C-E511153E3779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381A107E-7D9C-1382-6A3C-E511153E3779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381A107E-7D9C-1382-6A3C-E511153E3779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381A107E-7D9C-1382-6A3C-E511153E3779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381A107E-7D9C-1382-6A3C-E511153E3779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92ED8F4A-C2AB-48A5-B5A4-D797DFE44CCF}
+	EndGlobalSection
+EndGlobal
